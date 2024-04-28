@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br>
 <div>
-<a href = "[albertodomingos205@gmail](https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw).com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = ["[albertodomingos205@gmail](https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw).com"](https://mail.google.com/mail/u/0/#inbox)><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alberto-domingos-b2b9721bb/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
