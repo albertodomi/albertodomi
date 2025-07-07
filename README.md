@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**albertodomi/albertodomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá, meu nome é **Alberto Moreira** 👋
 
 ---
 
@@ -29,9 +14,19 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 Gráfico de linguagens
+## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertodomi&layout=compact&langs_count=6&theme=dark)
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertodomi&show_icons=true&theme=react&hide_border=true&count_private=true"/>
+
+  <!-- Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=albertodomi&theme=react&hide_border=true"/>
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertodomi&layout=compact&theme=react&hide_border=true&langs_count=6"/>
+</div>
 
 ---
 
