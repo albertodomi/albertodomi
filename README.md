@@ -20,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=albertodomi&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Alberto%20Moreira's%20GitHub%20Stats" height="180em"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=albertodomi&theme=react&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertodomi&layout=compact&theme=react&hide_border=true&langs_count=6" height="180em"/>
 </p>
 
