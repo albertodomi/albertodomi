@@ -32,8 +32,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertodomi&theme=react&hide_border=true" height="160" alt="GitHub Streak Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertodomi&theme=react" height="160" alt="GitHub Profile Details"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=albertodomi&show_icons=true&theme=react&hide_border=true&count_private=true&cache_bust=1" height="160" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albertodomi&layout=compact&theme=react&hide_border=true&langs_count=6&cache_bust=1" height="160" alt="Linguagens Mais Usadas"/>
 </p>
 
 ---
