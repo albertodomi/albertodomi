@@ -31,15 +31,16 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/albertodomi">
-    <img src="https://github-readme-stats.vercel.app/api?username=albertodomi&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Alberto%20Moreira's%20GitHub%20Stats" height="180em" alt="Estatísticas do GitHub"/>
-  </a>
-  <a href="https://github.com/albertodomi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertodomi&layout=compact&theme=react&hide_border=true&langs_count=6" height="180em" alt="Linguagens Mais Usadas"/>
-  </a>
-</p>
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=albertodomi&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Alberto%20Moreira's%20GitHub%20Stats" height="180" alt="Estatísticas do GitHub"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertodomi&layout=compact&theme=react&hide_border=true&langs_count=6" height="180" alt="Linguagens Mais Usadas"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📫 Vamos nos conectar?
