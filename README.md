@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A apaixonado por desenvolvimento de software, focado em criar soluções práticas tanto para a web quanto para o universo mobile. Atualmente, venho aprimorando minhas habilidades em arquitetura de dados, algoritmos e desenvolvimento Full-Stack.
+  Apaixonado por desenvolvimento de software, focado em criar soluções práticas tanto para a web quanto para o universo mobile. Atualmente, venho aprimorando minhas habilidades em arquitetura de dados, algoritmos e desenvolvimento Full-Stack.
 </p>
 
 ---
@@ -32,12 +32,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/albertodomi">
-    <img src="https://github-readme-stats.vercel.app/api?username=albertodomi&show_icons=true&theme=react&hide_border=true&count_private=true&custom_title=Alberto%20Moreira's%20GitHub%20Stats" height="180em" alt="Estatísticas do GitHub"/>
-  </a>
-  <a href="https://github.com/albertodomi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertodomi&layout=compact&theme=react&hide_border=true&langs_count=6" height="180em" alt="Linguagens Mais Usadas"/>
-  </a>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=albertodomi&show_icons=true&theme=react&hide_border=true&count_private=true" height="160" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=albertodomi&layout=compact&theme=react&hide_border=true&langs_count=6" height="160" alt="Linguagens Mais Usadas"/>
 </p>
 
 ---
